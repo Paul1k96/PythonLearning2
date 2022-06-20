@@ -12,5 +12,4 @@ def pascal(n):
 
     return list1[-1]                 # возвращаем последний список
 
-n = int(input())
-print(pascal(n))
+print(pascal(int(input())))
