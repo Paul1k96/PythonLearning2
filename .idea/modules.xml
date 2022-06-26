@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MayaScripts/.idea/MayaScripts.iml" filepath="$PROJECT_DIR$/../MayaScripts/.idea/MayaScripts.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PythonLearning/.idea/PythonLearning.iml" filepath="$PROJECT_DIR$/../PythonLearning/.idea/PythonLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonLearning2.iml" filepath="$PROJECT_DIR$/.idea/PythonLearning2.iml" />
     </modules>
