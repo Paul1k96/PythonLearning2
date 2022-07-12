@@ -1,0 +1,11 @@
+n, m, k, x, y ,z, t, a = [int(input()) for _ in range(8)]
+ins1 = n+m-t-x
+ins2 = m+k-t-y
+ins3 = n+k-t-z
+out1 = n-ins1-ins3-t
+out2 = m-ins1-ins2-t
+out3 = k-ins2-ins3-t
+res1 = out1 + out2 + out3
+res2 = ins1 + ins2 + ins3
+res3 = a-res1-res2-t
+print(res1, res2, res3, sep='\n')
